@@ -1,0 +1,13 @@
+{
+  "name": "wishstar",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "pnpm -r run build",
+    "test": "pnpm -r run test",
+    "typecheck": "pnpm -r run typecheck"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
