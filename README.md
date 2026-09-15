@@ -38,3 +38,8 @@ Claude Code assisted with modular design, implementation and refinement. Human r
 ## Intellectual property
 
 Copyright © 2026 Claudia Garau. All rights reserved. No permission is granted to reproduce or commercially exploit the private implementation or brand assets.
+
+
+## Portfolio code samples
+
+The `portfolio-review` branch contains focused TypeScript excerpts and tests for privacy rules, social visibility and idempotent gift reservations. Authentication, persistence and production integrations remain private.
